@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Inserting Nodes with Exception Handling\bin\Debug\Lagumbay_Inserting Nodes with Exception Handling.exe.config
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Inserting Nodes with Exception Handling\bin\Debug\Lagumbay_Inserting Nodes with Exception Handling.exe
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Inserting Nodes with Exception Handling\bin\Debug\Lagumbay_Inserting Nodes with Exception Handling.pdb
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Inserting Nodes with Exception Handling\obj\Debug\Lagumbay_Inserting Nodes with Exception Handling.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Inserting Nodes with Exception Handling\obj\Debug\Lagumbay_Inserting Nodes with Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Inserting Nodes with Exception Handling\obj\Debug\Lagumbay_Inserting Nodes with Exception Handling.exe
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Inserting Nodes with Exception Handling\obj\Debug\Lagumbay_Inserting Nodes with Exception Handling.pdb
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Inserting Nodes with Exception Handling\obj\Debug\Lagumbay_Inserting Nodes with Exception Handling.exe.config
