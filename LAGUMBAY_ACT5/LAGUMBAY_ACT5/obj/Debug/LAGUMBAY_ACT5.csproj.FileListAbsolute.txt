@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\source\repos\LAGUMBAY_ACT5\LAGUMBAY_ACT5\bin\Debug\LAGUMBAY_ACT5.exe.config
+C:\Users\ACT-STUDENT\source\repos\LAGUMBAY_ACT5\LAGUMBAY_ACT5\bin\Debug\LAGUMBAY_ACT5.exe
+C:\Users\ACT-STUDENT\source\repos\LAGUMBAY_ACT5\LAGUMBAY_ACT5\bin\Debug\LAGUMBAY_ACT5.pdb
+C:\Users\ACT-STUDENT\source\repos\LAGUMBAY_ACT5\LAGUMBAY_ACT5\obj\Debug\LAGUMBAY_ACT5.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\LAGUMBAY_ACT5\LAGUMBAY_ACT5\obj\Debug\LAGUMBAY_ACT5.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\LAGUMBAY_ACT5\LAGUMBAY_ACT5\obj\Debug\LAGUMBAY_ACT5.exe
+C:\Users\ACT-STUDENT\source\repos\LAGUMBAY_ACT5\LAGUMBAY_ACT5\obj\Debug\LAGUMBAY_ACT5.pdb
