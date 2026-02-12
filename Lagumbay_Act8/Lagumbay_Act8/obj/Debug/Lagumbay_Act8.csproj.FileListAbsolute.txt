@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Act8\Lagumbay_Act8\bin\Debug\Lagumbay_Act8.exe.config
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Act8\Lagumbay_Act8\bin\Debug\Lagumbay_Act8.exe
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Act8\Lagumbay_Act8\bin\Debug\Lagumbay_Act8.pdb
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Act8\Lagumbay_Act8\obj\Debug\Lagumbay_Act8.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Act8\Lagumbay_Act8\obj\Debug\Lagumbay_Act8.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Act8\Lagumbay_Act8\obj\Debug\Lagumbay_Act8.exe
+C:\Users\ACT-STUDENT\source\repos\Lagumbay_Act8\Lagumbay_Act8\obj\Debug\Lagumbay_Act8.pdb
